@@ -1,0 +1,3 @@
+cities :
+  type: rest
+  resource: "CityBundle:CityRest"
